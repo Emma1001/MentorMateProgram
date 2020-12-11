@@ -1,0 +1,13 @@
+C:\Visual Studio\Mentormate_assignment\Mentormate_assignment\bin\Debug\netcoreapp3.1\Mentormate_assignment.exe
+C:\Visual Studio\Mentormate_assignment\Mentormate_assignment\bin\Debug\netcoreapp3.1\Mentormate_assignment.deps.json
+C:\Visual Studio\Mentormate_assignment\Mentormate_assignment\bin\Debug\netcoreapp3.1\Mentormate_assignment.runtimeconfig.json
+C:\Visual Studio\Mentormate_assignment\Mentormate_assignment\bin\Debug\netcoreapp3.1\Mentormate_assignment.runtimeconfig.dev.json
+C:\Visual Studio\Mentormate_assignment\Mentormate_assignment\bin\Debug\netcoreapp3.1\Mentormate_assignment.dll
+C:\Visual Studio\Mentormate_assignment\Mentormate_assignment\bin\Debug\netcoreapp3.1\Mentormate_assignment.pdb
+C:\Visual Studio\Mentormate_assignment\Mentormate_assignment\obj\Debug\netcoreapp3.1\Mentormate_assignment.csprojAssemblyReference.cache
+C:\Visual Studio\Mentormate_assignment\Mentormate_assignment\obj\Debug\netcoreapp3.1\Mentormate_assignment.AssemblyInfoInputs.cache
+C:\Visual Studio\Mentormate_assignment\Mentormate_assignment\obj\Debug\netcoreapp3.1\Mentormate_assignment.AssemblyInfo.cs
+C:\Visual Studio\Mentormate_assignment\Mentormate_assignment\obj\Debug\netcoreapp3.1\Mentormate_assignment.csproj.CoreCompileInputs.cache
+C:\Visual Studio\Mentormate_assignment\Mentormate_assignment\obj\Debug\netcoreapp3.1\Mentormate_assignment.dll
+C:\Visual Studio\Mentormate_assignment\Mentormate_assignment\obj\Debug\netcoreapp3.1\Mentormate_assignment.pdb
+C:\Visual Studio\Mentormate_assignment\Mentormate_assignment\obj\Debug\netcoreapp3.1\Mentormate_assignment.genruntimeconfig.cache
